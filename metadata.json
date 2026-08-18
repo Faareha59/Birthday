@@ -1,0 +1,6 @@
+{
+  "name": "Apex Birthday Dashboard",
+  "description": "A warm beige, aesthetic, engaging and cute crayon doodle birthday celebration experience for twin featuring the happy doodle hamster with party hat and cake, sports cars, candle blowing, sound effects, and gift vouchers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
